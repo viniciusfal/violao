@@ -12,7 +12,6 @@ import notas from "@/assets/notas.webp"
 import { TableAula1 } from "./table-aula-1";
 import { AcordesMaiores } from "./acordes-maiores";
 import { AcordesMenores } from "./acordes-menores";
-import { Separator } from "./ui/separator";
 import { Guitar } from "lucide-react";
 import { Button } from "./ui/button";
 
