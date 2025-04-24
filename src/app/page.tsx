@@ -1,6 +1,3 @@
-
-
-import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 import { Modulo1 } from "@/components/modulo1";
 
@@ -88,7 +85,6 @@ export default function Home() {
           </AccordionItem>
         </Accordion>
       </main>
-      <Footer />
     </div>
   );
 }
