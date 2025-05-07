@@ -86,7 +86,7 @@ export function Modulo3() {
       </div>
 
       <footer className="mt-4">
-        <span className="font-semibold text-sm">Obs: Se você aprendeu a tocar a música "Deus me ama" na batida só para baixo da última aula. Pratique agora nessa batida ritimica.</span>
+        <span className="font-semibold text-sm">Obs: Se você aprendeu a tocar a música Deus me ama na batida só para baixo da última aula. Pratique agora nessa batida ritimica.</span>
         <p className="text-sm mt-4">Espero todos na nossa Áula de Sábado: ás 16h! Deus abençõe!!</p>
       </footer>
     </div>
