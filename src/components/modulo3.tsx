@@ -14,8 +14,8 @@ export function Modulo3() {
         <h3 className="text-lg mt-4 font-semibold">Mapa</h3>
         <p className="py-1">- Acima, temos o desenho de um braço do violão com os acordes. É como se o violão estivesse em pé, e virado para você.</p>
         <p className="py-1">- Os números correspondem aos dedos da mão esquerda (Dedo 1, 2, 3 ..)</p>
-        <p className="py-1">- Cada linha "vertical ( | )" equivale a uma corda</p>
-        <p className="py-1">- E cada linha "horizontal ( - )" equivale a uma casa</p>
+        <p className="py-1">- Cada linha vertical ( | ) equivale a uma corda</p>
+        <p className="py-1">- E cada linha horizontal ( - ) equivale a uma casa</p>
         <p className="py-1">- As bolinhas pretas e a seta grande não vem ao caso nessa aula</p>
         <p className="py-1">- A bolinha Branca representa apartir de qual corda devemos tocar esse acorde. (ou seja, se a bolinha branca estiver na quinta corda, eu tenho que tocar da quinta corda para baixo)</p>
       </div>
