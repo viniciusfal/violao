@@ -1,5 +1,6 @@
 import { Header } from "@/components/header";
 import { Modulo1 } from "@/components/modulo1";
+import { Modulo3 } from "@/components/modulo3";
 
 import {
   Accordion,
@@ -60,9 +61,9 @@ export default function Home() {
 
         <Accordion type="single" collapsible className="w-full mx-auto">
           <AccordionItem value="item-1">
-            <AccordionTrigger disabled>Aula 3</AccordionTrigger>
+            <AccordionTrigger >Aula 3</AccordionTrigger>
             <AccordionContent>
-
+              <Modulo3 />
             </AccordionContent>
           </AccordionItem>
         </Accordion>
